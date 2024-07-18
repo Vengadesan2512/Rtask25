@@ -1,0 +1,20 @@
+.TodoForm {
+  margin-bottom: 40px;
+}
+.TodoForm input {
+  margin-top: 30px;
+  margin-right: 10px;
+  background: rgb(248, 248, 248);
+  color: black;
+  
+}
+.TodoForm button {
+  margin-left: 10px;
+  border: solid 1px black;
+  width:100px ;
+}
+.title h1{
+  font-size: xx-large;
+  color: black;
+  font-weight: 800;
+}

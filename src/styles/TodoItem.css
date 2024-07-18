@@ -1,0 +1,27 @@
+.TodoItem {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: #6fd496;
+  border-radius: 10px;
+  color: white;
+  font-weight: 900;
+}
+.TodoItem h3 {
+  margin: 0;
+}
+.TodoItem p {
+  margin: 5px 0;
+}
+.TodoItem select {
+  margin-left: 10px;
+  background: whitesmoke;
+  color: black;
+}
+.TodoItem button{
+  margin-left: 10px;
+  border: solid 1px black;
+  width: 100px;
+  color: black;
+}
